@@ -24,6 +24,7 @@ npm start
 The application should now be running at http://localhost:3000.
 
 #Technologies Used
+
 React - JavaScript library for building user interfaces.
 Tailwind CSS - Utility-first CSS framework for rapid UI development.
 Other dependencies can be found in the package.json file.
