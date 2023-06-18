@@ -1,0 +1,91 @@
+[
+  {
+    "name": "To Do",
+    "items": [
+      {
+        "id": 3,
+        "priority": 1,
+        "title": "Brainstorming",
+        "desc": "Brainstorming brings team members' diverse experience into play.",
+        "files": 0,
+        "comments": 3,
+        "assignees": [
+          "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://randomuser.me/api/portraits/men/79.jpg"
+        ]
+      },
+      {
+        "id": 9,
+        "priority": 0,
+        "title": "Research",
+        "desc": "User research helps you to create an optimal product for users.",
+        "files": 5,
+        "comments": 2,
+        "assignees": ["https://thumbs.dreamstime.com/b/technology-face-portrait-businessman-tablet-confident-business-leader-saudi-arabia-research-technology-face-269730321.jpg"]
+      }
+    ]
+  },
+  {
+    "name": "On Progress",
+    "items": [
+      {
+        "id": 4,
+        "priority": 2,
+        "title": "Dashboard layout redesign.",
+        "files": 13,
+        "comments": 2,
+        "assignees": [
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://randomuser.me/api/portraits/men/79.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "priority": 0,
+        "title": "Social media posts",
+        "files": 0,
+        "comments": 0,
+        "img": "https://img.freepik.com/free-photo/top-view-flowers-collection-table_23-2148921007.jpg",
+        "assignees": ["https://randomuser.me/api/portraits/men/79.jpg"]
+      }
+    ]
+  },
+  {
+    "name": "Done",
+    "items": [
+      {
+        "id": 6,
+        "priority": 0,
+        "title": "Review client spec document and give feedback.",
+        "files": 13,
+        "comments": 2,
+        "assignees": [
+          "https://randomuser.me/api/portraits/men/79.jpg",
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        ]
+      },
+      {
+        "id": 7,
+        "priority": 1,
+        "title": "Design System",
+        "desc": "It just needs to adapt the UI from what you did before ",
+        "files": 0,
+        "comments": 0,
+        "assignees": [
+          "https://randomuser.me/api/portraits/men/79.jpg",
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        ]
+      },
+      {
+        "id": 8,
+        "priority": 2,
+        "title": "Create style guide based on previous feedback",
+        "files": 5,
+        "comments": 2,
+        "assignees": ["https://randomuser.me/api/portraits/men/79.jpg"]
+      }
+    ]
+  }
+]

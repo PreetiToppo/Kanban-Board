@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Inter", sans-serif;
+  }
+}
+
+.link {
+  @apply p-2.5 flex rounded-md gap-6 items-center md:cursor-pointer cursor-default duration-300 font-medium text-[#787486] text-[16px];
+}
+
+.active {
+  @apply bg-purple-100 text-[#0D062D] rounded-md	font-semibold;
+}
+
+@layer base {
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: blue orange;
+  }
+
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 5px;
+  }
+
+  *::-webkit-scrollbar-track {
+    @apply bg-white;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    @apply bg-gradient-to-b from-blue-500 to-red-400 rounded;
+  }
+}

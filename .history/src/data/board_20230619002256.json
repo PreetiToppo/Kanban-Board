@@ -1,0 +1,94 @@
+[
+  {
+    "name": "To Do",
+    "items": [
+      {
+        "id": 3,
+        "priority": 0,
+        "title": "Brainstorming",
+        "desc": "Brainstorming brings team members' diverse experience into play.",
+        "files": 0,
+        "comments": 12,
+        "assignees": [
+          "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://randomuser.me/api/portraits/men/79.jpg"
+        ]
+      },
+      {
+        "id": 9,
+        "priority": 1,
+        "title": "Research",
+        "desc": "User research helps you to create an optimal product for users.",
+        "files": 5,
+        "comments": 10,
+        "assignees": ["https://thumbs.dreamstime.com/b/technology-face-portrait-businessman-tablet-confident-business-leader-saudi-arabia-research-technology-face-269730321.jpg"]
+      },
+      {
+        "id": 10,
+        "priority": 1,
+        "title": "Wireframes",
+        "desc": "Low fidelity wireframes include the most basic content and visuals.",
+        "files": 5,
+        "comments": 2,
+        "assignees": ["https://thumbs.dreamstime.com/b/technology-face-portrait-businessman-tablet-confident-business-leader-saudi-arabia-research-technology-face-269730321.jpg"]
+      }
+    ]
+  },
+  {
+    "name": "On Progress",
+    "items": [
+      {
+        "id": 4,
+        "priority": 0,
+        "title": "Onboarding Illustrations.",
+        "files": 15,
+        "comments": 14,
+        "img": "https://images.unsplash.com/photo-1530903677198-7c9f3577a63e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1552&q=80",
+        "assignees": [
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://randomuser.me/api/portraits/men/79.jpg"
+        ]
+      },
+      {
+        "id": 5,
+        "priority": 0,
+        "title": "Moodboard",
+        "files": 10,
+        "comments": 9,
+        "img": "https://img.freepik.com/free-photo/top-view-flowers-collection-table_23-2148921007.jpg",
+        "assignees": ["https://randomuser.me/api/portraits/men/79.jpg"]
+      }
+    ]
+  },
+  {
+    "name": "Done",
+    "items": [
+      {
+        "id": 6,
+        "priority": 2,
+        "title": "Mobile App Design",
+        "files": 15,
+        "comments": 12,
+        "img": "https://images.unsplash.com/photo-1581287053822-fd7bf4f4bfec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=901&q=80",
+        "assignees": [
+          "https://randomuser.me/api/portraits/men/79.jpg",
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "https://images.pexels.com/photos/2589653/pexels-photo-2589653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        ]
+      },
+      {
+        "id": 7,
+        "priority": 2,
+        "title": "Design System",
+        "desc": "It just needs to adapt the UI from what you did before ",
+        "files": 15,
+        "comments": 12,
+        "assignees": [
+          "https://randomuser.me/api/portraits/men/79.jpg",
+          "https://images.pexels.com/photos/2955305/pexels-photo-2955305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        ]
+      }
+    ]
+  }
+]
